@@ -1,0 +1,6 @@
+# initialstart.sh script
+# searchStatus.sh script
+
+>> "initialstart.sh" script needs to run first which in turn will call the second script "searchStatus.sh".
+>> Both the scripts must have execute permission( chmod +x filename ) to execute on the server.
+>> Both the scripts should be in same directory while executing.
